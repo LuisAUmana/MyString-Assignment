@@ -1,5 +1,5 @@
 # MyString-Assignment
-Assignment provided by ECGR 2104
+Assignment provided by Computer Engr Programming II (ECGR 2104)
 You are to implement a MyString class which is our own limited implementation of the std::string
 
 Here's the header file: mystring.h
